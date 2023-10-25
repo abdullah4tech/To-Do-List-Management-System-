@@ -54,4 +54,3 @@ We welcome contributions to this project! If you have ideas for enhancements or 
 
 If you encounter any issues or have suggestions for improvements, don't hesitate to open an issue on the project's repository. Your feedback is greatly appreciated.
 
-Enjoy using this To-Do List Management System, and may your tasks be organized and your days productive! 🌟
